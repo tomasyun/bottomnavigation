@@ -1,0 +1,9 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <dimen name="material_bottom_navigation_height">56dp</dimen>
+
+    <declare-styleable name="PageBottomTabLayout">
+        <attr name="tabPaddingTop" format="dimension" />
+        <attr name="tabPaddingBottom" format="dimension" />
+    </declare-styleable>
+</resources>
