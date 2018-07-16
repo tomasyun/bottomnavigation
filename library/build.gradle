@@ -30,5 +30,5 @@ publish {
     artifactId = 'bottomnavigation'
     publishVersion = '1.0.0'//版本号
     description = ''
-    website = 'https://github.com/tomasyun/bottomnavigation'
+    website = 'https://github.com/tomasyun/bottomnavigation.git'
 }
