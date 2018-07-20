@@ -1,4 +1,4 @@
-package www.yuntdev.com.library.item;
+package www.yuntdev.com.bottomNavigationLibrary.item;
 
 
 import android.content.Context;
@@ -9,7 +9,7 @@ import android.view.LayoutInflater;
 import android.widget.ImageView;
 import android.widget.TextView;
 
-import www.yuntdev.com.library.R;
+import www.yuntdev.com.bottomNavigationLibrary.R;
 
 public class NormalItemView extends BaseTabItem {
     private ImageView mIcon;

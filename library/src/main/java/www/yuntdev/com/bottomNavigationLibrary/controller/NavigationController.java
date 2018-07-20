@@ -1,8 +1,8 @@
-package www.yuntdev.com.library.controller;
+package www.yuntdev.com.bottomNavigationLibrary.controller;
 
 import android.support.v4.view.ViewPager;
 
-import www.yuntdev.com.library.listener.OnTabItemSelectedListener;
+import www.yuntdev.com.bottomNavigationLibrary.listener.OnTabItemSelectedListener;
 
 public class NavigationController implements ItemController, BottomLayoutController {
     private BottomLayoutController mBottomLayoutController;

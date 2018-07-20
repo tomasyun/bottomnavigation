@@ -1,4 +1,4 @@
-package www.yuntdev.com.library.listener;
+package www.yuntdev.com.bottomNavigationLibrary.listener;
 
 public interface OnTabItemSelectedListener {
     void onSelected(int index, int old);
