@@ -1,4 +1,4 @@
-package www.yuntdev.com.bottomNavigationLibrary.referview;
+package www.yuntdev.com.bottomnavigationlibrary.referview;
 
 import android.animation.ObjectAnimator;
 import android.content.Context;
@@ -14,12 +14,12 @@ import android.view.animation.AccelerateDecelerateInterpolator;
 import java.util.ArrayList;
 import java.util.List;
 
-import www.yuntdev.com.bottomNavigationLibrary.R;
-import www.yuntdev.com.bottomNavigationLibrary.controller.BottomLayoutController;
-import www.yuntdev.com.bottomNavigationLibrary.controller.NavigationController;
-import www.yuntdev.com.bottomNavigationLibrary.internal.CustomItemLayout;
-import www.yuntdev.com.bottomNavigationLibrary.item.BaseTabItem;
-import www.yuntdev.com.bottomNavigationLibrary.listener.OnTabItemSelectedListener;
+import www.yuntdev.com.bottomnavigationlibrary.R;
+import www.yuntdev.com.bottomnavigationlibrary.controller.BottomLayoutController;
+import www.yuntdev.com.bottomnavigationlibrary.controller.NavigationController;
+import www.yuntdev.com.bottomnavigationlibrary.internal.CustomItemLayout;
+import www.yuntdev.com.bottomnavigationlibrary.item.BaseTabItem;
+import www.yuntdev.com.bottomnavigationlibrary.listener.OnTabItemSelectedListener;
 
 public class PageBottomTabLayout extends ViewGroup {
     private int mTabPaddingTop;

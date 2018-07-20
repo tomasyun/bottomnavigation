@@ -1,4 +1,4 @@
-package www.yuntdev.com.bottomNavigationLibrary.adapter;
+package www.yuntdev.com.bottomnavigationlibrary.adapter;
 
 
 import android.support.v4.app.Fragment;

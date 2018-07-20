@@ -1,4 +1,4 @@
-package www.yuntdev.com.bottomNavigationLibrary.referview;
+package www.yuntdev.com.bottomnavigationlibrary.referview;
 
 import android.content.Context;
 import android.support.v4.view.ViewPager;

@@ -1,4 +1,4 @@
-package www.yuntdev.com.bottomNavigationLibrary.item;
+package www.yuntdev.com.bottomnavigationlibrary.item;
 
 
 import android.content.Context;

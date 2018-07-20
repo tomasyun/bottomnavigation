@@ -1,4 +1,4 @@
-package www.yuntdev.com.bottomNavigationLibrary.controller;
+package www.yuntdev.com.bottomnavigationlibrary.controller;
 
 import android.support.v4.view.ViewPager;
 

@@ -1,4 +1,4 @@
-package www.yuntdev.com.bottomNavigationLibrary.internal;
+package www.yuntdev.com.bottomnavigationlibrary.internal;
 
 
 import android.content.Context;
@@ -10,10 +10,10 @@ import android.view.ViewGroup;
 import java.util.ArrayList;
 import java.util.List;
 
-import www.yuntdev.com.bottomNavigationLibrary.R;
-import www.yuntdev.com.bottomNavigationLibrary.controller.ItemController;
-import www.yuntdev.com.bottomNavigationLibrary.item.BaseTabItem;
-import www.yuntdev.com.bottomNavigationLibrary.listener.OnTabItemSelectedListener;
+import www.yuntdev.com.bottomnavigationlibrary.R;
+import www.yuntdev.com.bottomnavigationlibrary.controller.ItemController;
+import www.yuntdev.com.bottomnavigationlibrary.item.BaseTabItem;
+import www.yuntdev.com.bottomnavigationlibrary.listener.OnTabItemSelectedListener;
 
 public class CustomItemLayout extends ViewGroup implements ItemController {
     private final int BOTTOM_NAVIGATION_ITEM_HEIGHT;

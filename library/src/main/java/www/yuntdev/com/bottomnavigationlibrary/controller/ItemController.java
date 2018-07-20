@@ -1,6 +1,6 @@
-package www.yuntdev.com.bottomNavigationLibrary.controller;
+package www.yuntdev.com.bottomnavigationlibrary.controller;
 
-import www.yuntdev.com.bottomNavigationLibrary.listener.OnTabItemSelectedListener;
+import www.yuntdev.com.bottomnavigationlibrary.listener.OnTabItemSelectedListener;
 
 public interface ItemController {
     void setSelect(int index);
